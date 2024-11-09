@@ -1,0 +1,317 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\grzes\\source\\repos\\SzafkiSzkolne\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D1968C08-9CEF-439A-B91D-1BDE0A2F3F8C}|SzafkiSzkolne.csproj|c:\\users\\grzes\\source\\repos\\szafkiszkolne\\viewmodels\\managealllockersviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1968C08-9CEF-439A-B91D-1BDE0A2F3F8C}|SzafkiSzkolne.csproj|solutionrelative:viewmodels\\managealllockersviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1968C08-9CEF-439A-B91D-1BDE0A2F3F8C}|SzafkiSzkolne.csproj|c:\\users\\grzes\\source\\repos\\szafkiszkolne\\views\\managealllockers.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1968C08-9CEF-439A-B91D-1BDE0A2F3F8C}|SzafkiSzkolne.csproj|solutionrelative:views\\managealllockers.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1968C08-9CEF-439A-B91D-1BDE0A2F3F8C}|SzafkiSzkolne.csproj|c:\\users\\grzes\\source\\repos\\szafkiszkolne\\views\\managelocker.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1968C08-9CEF-439A-B91D-1BDE0A2F3F8C}|SzafkiSzkolne.csproj|solutionrelative:views\\managelocker.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1968C08-9CEF-439A-B91D-1BDE0A2F3F8C}|SzafkiSzkolne.csproj|c:\\users\\grzes\\source\\repos\\szafkiszkolne\\viewmodels\\managelockerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1968C08-9CEF-439A-B91D-1BDE0A2F3F8C}|SzafkiSzkolne.csproj|solutionrelative:viewmodels\\managelockerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1968C08-9CEF-439A-B91D-1BDE0A2F3F8C}|SzafkiSzkolne.csproj|c:\\users\\grzes\\source\\repos\\szafkiszkolne\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D1968C08-9CEF-439A-B91D-1BDE0A2F3F8C}|SzafkiSzkolne.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1968C08-9CEF-439A-B91D-1BDE0A2F3F8C}|SzafkiSzkolne.csproj|c:\\users\\grzes\\source\\repos\\szafkiszkolne\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1968C08-9CEF-439A-B91D-1BDE0A2F3F8C}|SzafkiSzkolne.csproj|solutionrelative:appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1968C08-9CEF-439A-B91D-1BDE0A2F3F8C}|SzafkiSzkolne.csproj|c:\\users\\grzes\\source\\repos\\szafkiszkolne\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D1968C08-9CEF-439A-B91D-1BDE0A2F3F8C}|SzafkiSzkolne.csproj|solutionrelative:appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1968C08-9CEF-439A-B91D-1BDE0A2F3F8C}|SzafkiSzkolne.csproj|c:\\users\\grzes\\source\\repos\\szafkiszkolne\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1968C08-9CEF-439A-B91D-1BDE0A2F3F8C}|SzafkiSzkolne.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1968C08-9CEF-439A-B91D-1BDE0A2F3F8C}|SzafkiSzkolne.csproj|c:\\users\\grzes\\source\\repos\\szafkiszkolne\\views\\managelocker.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D1968C08-9CEF-439A-B91D-1BDE0A2F3F8C}|SzafkiSzkolne.csproj|solutionrelative:views\\managelocker.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1968C08-9CEF-439A-B91D-1BDE0A2F3F8C}|SzafkiSzkolne.csproj|c:\\users\\grzes\\source\\repos\\szafkiszkolne\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1968C08-9CEF-439A-B91D-1BDE0A2F3F8C}|SzafkiSzkolne.csproj|solutionrelative:mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1968C08-9CEF-439A-B91D-1BDE0A2F3F8C}|SzafkiSzkolne.csproj|c:\\users\\grzes\\source\\repos\\szafkiszkolne\\views\\managealllockers.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D1968C08-9CEF-439A-B91D-1BDE0A2F3F8C}|SzafkiSzkolne.csproj|solutionrelative:views\\managealllockers.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1968C08-9CEF-439A-B91D-1BDE0A2F3F8C}|SzafkiSzkolne.csproj|c:\\users\\grzes\\source\\repos\\szafkiszkolne\\views\\addnewlockerview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1968C08-9CEF-439A-B91D-1BDE0A2F3F8C}|SzafkiSzkolne.csproj|solutionrelative:views\\addnewlockerview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1968C08-9CEF-439A-B91D-1BDE0A2F3F8C}|SzafkiSzkolne.csproj|c:\\users\\grzes\\source\\repos\\szafkiszkolne\\viewmodels\\addnewlockerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1968C08-9CEF-439A-B91D-1BDE0A2F3F8C}|SzafkiSzkolne.csproj|solutionrelative:viewmodels\\addnewlockerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1968C08-9CEF-439A-B91D-1BDE0A2F3F8C}|SzafkiSzkolne.csproj|c:\\users\\grzes\\source\\repos\\szafkiszkolne\\views\\addnewlockerview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D1968C08-9CEF-439A-B91D-1BDE0A2F3F8C}|SzafkiSzkolne.csproj|solutionrelative:views\\addnewlockerview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1968C08-9CEF-439A-B91D-1BDE0A2F3F8C}|SzafkiSzkolne.csproj|c:\\users\\grzes\\source\\repos\\szafkiszkolne\\models\\localdbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1968C08-9CEF-439A-B91D-1BDE0A2F3F8C}|SzafkiSzkolne.csproj|solutionrelative:models\\localdbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1968C08-9CEF-439A-B91D-1BDE0A2F3F8C}|SzafkiSzkolne.csproj|c:\\users\\grzes\\source\\repos\\szafkiszkolne\\views\\testview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D1968C08-9CEF-439A-B91D-1BDE0A2F3F8C}|SzafkiSzkolne.csproj|solutionrelative:views\\testview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1968C08-9CEF-439A-B91D-1BDE0A2F3F8C}|SzafkiSzkolne.csproj|c:\\users\\grzes\\source\\repos\\szafkiszkolne\\views\\testview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1968C08-9CEF-439A-B91D-1BDE0A2F3F8C}|SzafkiSzkolne.csproj|solutionrelative:views\\testview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 171,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 247,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\grzes\\source\\repos\\SzafkiSzkolne\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\grzes\\source\\repos\\SzafkiSzkolne\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-15T20:38:09.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\grzes\\source\\repos\\SzafkiSzkolne\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "C:\\Users\\grzes\\source\\repos\\SzafkiSzkolne\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T20:38:08.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ManageAllLockersViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\grzes\\source\\repos\\SzafkiSzkolne\\ViewModels\\ManageAllLockersViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\ManageAllLockersViewModel.cs",
+              "ToolTip": "C:\\Users\\grzes\\source\\repos\\SzafkiSzkolne\\ViewModels\\ManageAllLockersViewModel.cs",
+              "RelativeToolTip": "ViewModels\\ManageAllLockersViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T20:36:10.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AddNewLockerViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\grzes\\source\\repos\\SzafkiSzkolne\\ViewModels\\AddNewLockerViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\AddNewLockerViewModel.cs",
+              "ToolTip": "C:\\Users\\grzes\\source\\repos\\SzafkiSzkolne\\ViewModels\\AddNewLockerViewModel.cs",
+              "RelativeToolTip": "ViewModels\\AddNewLockerViewModel.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAmwBAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T19:44:00.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\grzes\\source\\repos\\SzafkiSzkolne\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "MauiProgram.cs",
+              "ToolTip": "C:\\Users\\grzes\\source\\repos\\SzafkiSzkolne\\MauiProgram.cs",
+              "RelativeToolTip": "MauiProgram.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T16:35:23.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TestView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\grzes\\source\\repos\\SzafkiSzkolne\\Views\\TestView.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\TestView.xaml.cs",
+              "ToolTip": "C:\\Users\\grzes\\source\\repos\\SzafkiSzkolne\\Views\\TestView.xaml.cs",
+              "RelativeToolTip": "Views\\TestView.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T16:32:38.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TestView.xaml",
+              "DocumentMoniker": "C:\\Users\\grzes\\source\\repos\\SzafkiSzkolne\\Views\\TestView.xaml",
+              "RelativeDocumentMoniker": "Views\\TestView.xaml",
+              "ToolTip": "C:\\Users\\grzes\\source\\repos\\SzafkiSzkolne\\Views\\TestView.xaml",
+              "RelativeToolTip": "Views\\TestView.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-14T16:32:12.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ManageLockerViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\grzes\\source\\repos\\SzafkiSzkolne\\ViewModels\\ManageLockerViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\ManageLockerViewModel.cs",
+              "ToolTip": "C:\\Users\\grzes\\source\\repos\\SzafkiSzkolne\\ViewModels\\ManageLockerViewModel.cs",
+              "RelativeToolTip": "ViewModels\\ManageLockerViewModel.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T15:48:29.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ManageLocker.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\grzes\\source\\repos\\SzafkiSzkolne\\Views\\ManageLocker.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\ManageLocker.xaml.cs",
+              "ToolTip": "C:\\Users\\grzes\\source\\repos\\SzafkiSzkolne\\Views\\ManageLocker.xaml.cs",
+              "RelativeToolTip": "Views\\ManageLocker.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T18:17:00.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ManageLocker.xaml",
+              "DocumentMoniker": "C:\\Users\\grzes\\source\\repos\\SzafkiSzkolne\\Views\\ManageLocker.xaml",
+              "RelativeDocumentMoniker": "Views\\ManageLocker.xaml",
+              "ToolTip": "C:\\Users\\grzes\\source\\repos\\SzafkiSzkolne\\Views\\ManageLocker.xaml",
+              "RelativeToolTip": "Views\\ManageLocker.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-13T11:41:42.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\grzes\\source\\repos\\SzafkiSzkolne\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "AppShell.xaml.cs",
+              "ToolTip": "C:\\Users\\grzes\\source\\repos\\SzafkiSzkolne\\AppShell.xaml.cs",
+              "RelativeToolTip": "AppShell.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T11:25:08.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\grzes\\source\\repos\\SzafkiSzkolne\\AppShell.xaml",
+              "RelativeDocumentMoniker": "AppShell.xaml",
+              "ToolTip": "C:\\Users\\grzes\\source\\repos\\SzafkiSzkolne\\AppShell.xaml",
+              "RelativeToolTip": "AppShell.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-13T11:24:08.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ManageAllLockers.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\grzes\\source\\repos\\SzafkiSzkolne\\Views\\ManageAllLockers.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\ManageAllLockers.xaml.cs",
+              "ToolTip": "C:\\Users\\grzes\\source\\repos\\SzafkiSzkolne\\Views\\ManageAllLockers.xaml.cs",
+              "RelativeToolTip": "Views\\ManageAllLockers.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T11:16:30.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LocalDbService.cs",
+              "DocumentMoniker": "C:\\Users\\grzes\\source\\repos\\SzafkiSzkolne\\Models\\LocalDbService.cs",
+              "RelativeDocumentMoniker": "Models\\LocalDbService.cs",
+              "ToolTip": "C:\\Users\\grzes\\source\\repos\\SzafkiSzkolne\\Models\\LocalDbService.cs",
+              "RelativeToolTip": "Models\\LocalDbService.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAwwCQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T11:02:27.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ManageAllLockers.xaml",
+              "DocumentMoniker": "C:\\Users\\grzes\\source\\repos\\SzafkiSzkolne\\Views\\ManageAllLockers.xaml",
+              "RelativeDocumentMoniker": "Views\\ManageAllLockers.xaml",
+              "ToolTip": "C:\\Users\\grzes\\source\\repos\\SzafkiSzkolne\\Views\\ManageAllLockers.xaml",
+              "RelativeToolTip": "Views\\ManageAllLockers.xaml",
+              "ViewState": "AQIAACoAAAAAAAAAAAAIwFAAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-13T11:01:49.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AddNewLockerView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\grzes\\source\\repos\\SzafkiSzkolne\\Views\\AddNewLockerView.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\AddNewLockerView.xaml.cs",
+              "ToolTip": "C:\\Users\\grzes\\source\\repos\\SzafkiSzkolne\\Views\\AddNewLockerView.xaml.cs",
+              "RelativeToolTip": "Views\\AddNewLockerView.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T10:44:00.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AddNewLockerView.xaml",
+              "DocumentMoniker": "C:\\Users\\grzes\\source\\repos\\SzafkiSzkolne\\Views\\AddNewLockerView.xaml",
+              "RelativeDocumentMoniker": "Views\\AddNewLockerView.xaml",
+              "ToolTip": "C:\\Users\\grzes\\source\\repos\\SzafkiSzkolne\\Views\\AddNewLockerView.xaml",
+              "RelativeToolTip": "Views\\AddNewLockerView.xaml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-13T10:43:59.069Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
